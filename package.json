@@ -1,0 +1,21 @@
+{
+    "name": "kropply-demo",
+    "version": "1.0.0",
+    "description": "The demo project for Kropply. This project should have errors that Kropply can provide suggestions to solve",
+    "scripts": {
+        "compile": "tsc",
+        "test": "jest"
+    },
+    "author": "Panos Halios",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/jest": "^29.5.12",
+        "jest": "^29.7.0",
+        "prettier": "^3.2.5",
+        "ts-jest": "^29.1.2",
+        "typescript": "^5.3.3"
+    },
+    "dependencies": {
+        "chalk": "^4.1.2"
+    }
+}
